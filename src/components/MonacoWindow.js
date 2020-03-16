@@ -73,6 +73,7 @@ class MonacoWindow extends React.Component {
           automaticLayout: false,
           language: "json",
           model: model,
+          wordWrap: 'on',
           scrollbar: {
             vertical: "hidden",
             handleMouseWheel: false
