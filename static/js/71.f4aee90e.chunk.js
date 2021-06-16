@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-create-react-app"]=this["webpackJsonpmy-create-react-app"]||[]).push([[71],{744:function(e,p,a){e.exports=a.p+"static/media/id_5.4e97e784.md"}}]);
+//# sourceMappingURL=71.f4aee90e.chunk.js.map
